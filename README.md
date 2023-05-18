@@ -1,6 +1,7 @@
 # DEXStats
- Example of a token rid of priviledges that can check his own price and marketcap against DEX (using DEXStats contract) in order to take decisions\
-\
+ Example of a token rid of priviledges that can check his own price and marketcap against DEX 
+ (using DEXStats contract) in order to take decisions\
+ 
  ## How to run
  First install ganache and truffle globally using:\
  npm install ganache -g\
@@ -16,7 +17,7 @@ npm run compile\
 npm run ganacheFork\
 3-Run the tests:\
 npm run test\
-\
+
 ## How to deploy
 1-Edit token template and test it\
 2-Set your pk on .pk file\
