@@ -1,6 +1,6 @@
 # DEXStats
  Example of a token rid of priviledges that can check his own price and marketcap against DEX 
- (using DEXStats contract) in order to take decisions\
+ (using DEXStats contract) in order to take decisions
 
  ## How to run
  First install ganache and truffle globally using:\
