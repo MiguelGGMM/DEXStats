@@ -1,0 +1,4 @@
+node_modules
+.pk
+package-lock.json
+build

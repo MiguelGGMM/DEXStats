@@ -1,0 +1,26 @@
+{
+  "name": "dex-stats",
+  "version": "1.0.0",
+  "description": "Example of token rid of priviledges that can check his own price and marketcap in order to take decisions",
+  "main": "index.js",
+  "scripts": {
+    "compile": "truffle compile",
+    "ganache": "ganache",
+    "ganacheFork": "ganache --fork=https://bsc-dataseed1.binance.org/",
+    "test": "truffle test --network ganacheLocal",
+    "deploy": "truffle migrate --network bscMainnet"
+  },
+  "keywords": [
+    "BLOCKCHAIN",
+    "TOKEN",
+    "BSC",
+    "DEX",
+    "PANCAKESWAPV2"
+  ],
+  "author": "MiguelGGMM",
+  "license": "MIT",
+  "dependencies": {
+    "@truffle/hdwallet-provider": "^2.1.11",
+    "dotenv": "^16.0.3"
+  }
+}
